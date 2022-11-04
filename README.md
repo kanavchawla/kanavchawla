@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanavchawla
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning Baackend using node.js and express.js
+- 🌱 I’m currently learning Backend.
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me kanavchawla04@gmail.com
 
