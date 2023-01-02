@@ -16,8 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanavchawla&theme=radical&border_radius=9.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--  :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanavchawla&theme=radical&border_radius=9.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!---
 kanavchawla/kanavchawla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
