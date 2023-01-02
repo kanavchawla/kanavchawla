@@ -5,9 +5,13 @@
 - 👋 Hi, I’m @kanavchawla
 <br>
 - 👀 I’m interested in webdev
+- <br>
 - 🌱 I’m currently learning Backend.
+- <br>
 - 💞️ I’m looking to collaborate on frontend projects
+- <br>
 - 📫 How to reach me kanavchawla04@gmail.com
+- <br>
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
