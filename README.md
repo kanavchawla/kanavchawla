@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m @kanavchawla
--<br>
+- <br>
 - 👀 I’m interested in webdev
 - <br>
 - 🌱 I’m currently learning Backend.
