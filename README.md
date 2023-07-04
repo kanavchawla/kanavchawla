@@ -33,3 +33,4 @@ kanavchawla/kanavchawla is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![kanavchawla's Stats](https://github-readme-stats.vercel.app/api?username=kanavchawla&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![kanavchawla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanavchawla&theme=radical&hide_border=true)
